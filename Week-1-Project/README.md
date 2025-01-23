@@ -87,7 +87,7 @@ Objective: Create a scalable, efficient data lake for advanced analytics.
 
 ## Connect with Me
 
-LinkedIn: [www.linkedin.com/in/samkeliso-dube](www.linkedin.com/in/samkeliso-dube)
+LinkedIn: www.linkedin.com/in/samkeliso-dube
 
 GitHub: https://github.com/Samkeliso-Dube
 
